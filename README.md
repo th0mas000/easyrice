@@ -63,9 +63,6 @@ A React TypeScript application with a form for creating inspections. Built with 
 ### Installation
 
 1. Navigate to the project directory:
-   ```bash
-   cd inspection-app
-   ```
 
 2. Install dependencies:
    ```bash
